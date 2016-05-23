@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+  <EVENT id="1" details="Test Event # 1" />
+  <EVENT id="2" details="Test Event # 2" />
+  <EVENT id="3" details="Test Event # 3" />
+ 
+</dataset>
